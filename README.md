@@ -26,6 +26,6 @@ I believe that data drives traffic, but human stories drive conversions. By blen
  📬 Let's Connect!
 I am actively looking for Remote Roles and Freelance Opportunities with global companies across US/UK time zones.
 
-LinkedIn: [Your LinkedIn Profile Link Here]
-Email: [Your Professional Email Here]
+LinkedIn:www.linkedin.com/in/lahari-naraparaju
+Email:laharinaraparaju6@gmail.com 
 Location:Remote / India 🇮🇳
