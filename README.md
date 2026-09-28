@@ -14,11 +14,11 @@ High-quality, long-form articles and B2B/SaaS blogs written with a 100% human to
 
 3. 🤖 AI Prompt Engineering Frameworks
 Custom prompts and workflows I designed to scale content research, automate technical outline generation, and speed up the editing process without losing human emotion.
-📂[View Prompting Framework](./prompt-engineering/readme.md)**
+📂[View Prompting Framework](./prompt-engineering/readme.md)
 
  4. 📈 Social Media Marketing & Facebook Ads
 End-to-end management of organic content schedules, personal branding strategies for LinkedIn/Twitter, and targeted Facebook Ads setups aimed at driving conversions.
- 📂 [View Marketing Samples](./marketing-campaigns/readme.md)**
+ 📂 [View Marketing Samples](./marketing-campaigns/readme.md)
 
 💼 Work Philosophy
 I believe that data drives traffic, but human stories drive conversions. By blending deep technical SEO diagnostics with culturally contextual, emotionally resonant copywriting—accelerated by smart AI prompt structures—I build high-performing digital marketing assets for global brands.
